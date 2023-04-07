@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c838001c-fe47-493d-bd0f-de7be7835a79" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StriverCodePractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find_largest_value_in_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find_second_largest_value_in_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/How_many_numbers_are_smaller_than_the_current_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JewelsAndStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Missing_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_duplicate_from_sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sort_Colors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Two_sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/longestSubArrayWithSumK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/majorityElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maximum_Consecutive_Ones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singleNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeaderInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rearrangeArrayElementBySign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/majorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/majorityElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,16 +33,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/Github/CompleteCODE"
   }
-}</component>
-  <component name="RunManager" selected="Application.majorityElement">
-    <configuration name="Missing_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Missing_Number" />
+}]]></component>
+  <component name="RunManager" selected="Application.rearrangeArrayElementBySign">
+    <configuration name="LeaderInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeaderInArray" />
       <module name="StriverCodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maximum_Consecutive_Ones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maximum_Consecutive_Ones" />
+    <configuration name="rearrangeArrayElementBySign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rearrangeArrayElementBySign" />
       <module name="StriverCodePractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.rearrangeArrayElementBySign" />
+        <item itemvalue="Application.LeaderInArray" />
         <item itemvalue="Application.majorityElement" />
         <item itemvalue="Application.Sort_Colors" />
         <item itemvalue="Application.singleNumber" />
-        <item itemvalue="Application.maximum_Consecutive_Ones" />
-        <item itemvalue="Application.Missing_Number" />
       </list>
     </recent_temporary>
   </component>
