@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/rearrange-array-elements-by-sign/
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -28,6 +29,11 @@ public class rearrangeArrayElementBySign {
         return arr;
     }
 
+    //Optimal Method;
+    /*
+    Time complexity : O(n)
+    space complexity : O(n);
+     */
     public static int[] rearrangeOptimal(int[] arr) {
         int[] res = new int[arr.length];
         int positive = 0, negative = 1;
